@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 13726b05372a75b44815ab4892a27642
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7fe5372860204bbcff09b7a833411
+      internalID: 1118242384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e244aec3beda429374c14e13ef78a
+      internalID: -1711137949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7f9fc82153d741aa5f8147528cc79
+      internalID: 913580320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14829f4b3eae994428dfeff23da87fd7
+      internalID: -1555916265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ad7cb4dc62ef48884a90c24e4f8c3
+      internalID: -1927260618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26381ad8dac0dda4ca99e8475ef2a3b7
+      internalID: -1862841090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffedd3472e8b5c43af22903fbbf5d3a
+      internalID: 1945667552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa597aefb944911419836969a47bea59
+      internalID: -1972948690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef377033ff4a74081e308c526e4662
+      internalID: 1976437199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e977150f2ca8d04494a0aff90145ba9
+      internalID: 124123495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5237d95175ecdf4b9160ebc862e24c6
+      internalID: -1273258427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 760
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342928bb5cfe8a444baf4f07e7761918
+      internalID: 1545163464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 760
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27713f2a1762d8d4ba95b117f8a04b4d
+      internalID: -1490533429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622797a8a08c53541aa365bd378b62f7
+      internalID: -2112023230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeefeb5b119d0c4a9b6bbc2aeedc10e
+      internalID: -1665676637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec801a725f46443acc25302eff2a67
+      internalID: -2087108981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16fbb7009bfa19499eb073f70f03ccb
+      internalID: 1137504161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918a1227c1dcd64ebdc310e755a2436
+      internalID: -1796080017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331ada793eea564996a29ce51cf3828
+      internalID: 965611171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc976fb2a8c129a45a131d37d91dce53
+      internalID: 21700130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4f6784cc9f434081820507798c44f
+      internalID: 708189321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 612
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a643ce436889ac4aa08bcb960cbfbbd
+      internalID: 1387064811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243244833841aa04b9b3d4032ceaa66e
+      internalID: -1451996604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ba77db6a512f4e89d91ff124df845
+      internalID: -1529990247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acdc3decbd4c0b46a0545775b41ff39
+      internalID: -64127632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Z_PLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 610
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ab0cfe4e045e43ac33b3fe18870e7
+      internalID: 1317237233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745d2aeddd4bf5449d2245e0245555c
+      internalID: -1497049922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda6db44d3da33f4eae71ba48f7045e1
+      internalID: 320593312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 450
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb422a1dee5a91408165336087a5f0b
+      internalID: 1005723860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42667936384c1c84fb53cc46b3cda3fe
+      internalID: -991622017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcaa5206cadc344909d7e7ab6e20e7
+      internalID: 1613135254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbfd96887dd8b4ba7ae3c86641298f
+      internalID: 1323487186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d646e56449e6d74fa76242a7c5ec4c1
+      internalID: -990271360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070cc1a6be867d4448194004787b0eb5
+      internalID: -1466469160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecde40a667fdcf4dad157dee9cc92c1
+      internalID: 1691530656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1a1acf6eb5f445ae8cde24a5a3faf
+      internalID: 1729730768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75afa656c58c44597d473002a61384
+      internalID: 452598396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 450
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda5da49d46b8c4294f7eb6601379a4
+      internalID: -1120755753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 450
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751c2323f71ab34bbe595fc7edc5a65
+      internalID: -1835344231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 302
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e822dd7433ff4b8d6947fae3ee281
+      internalID: -1625736501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a63cbf1539a0419e117ed98d340c5
+      internalID: -1526411160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931e2dba999edb459b69ad1e7f52955
+      internalID: -227659289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0aa1c16e5b8840adff6fe22560836
+      internalID: 1373588675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 302
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515f2e2fa1eccaa4f946180deac5e5af
+      internalID: 1796657790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7cdada0b95e94d932063503e385d2
+      internalID: 2075625856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2889b13801816cb42983cdb8fdce48f0
+      internalID: 948095631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 298
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf79c753efea684ab63f8b82f417e84
+      internalID: 525161634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564c5fbe1eec5c43afdd415ed5ac3be
+      internalID: -976076762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0a834631e7b24cad47f42895d82a7
+      internalID: 1501324162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac05cba6e87d0246b22cf7186406072
+      internalID: -1621879061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5b076e6f832346942a423da2eb7f4
+      internalID: 1606059606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Z_SLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 300
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238c2e5686fbbc44a82fe2cdb6e9f37
+      internalID: 1976512099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723d8f5d003ecd41b484c2bd299e873
+      internalID: 372865652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2420d301482a5458f7a7d1a6d0b1b6
+      internalID: -706079851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729dabe01928d9a4ea552806dd61f3a6
+      internalID: -1240219903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82883d5ffdee1f468f1433b64352a69
+      internalID: 1890293585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48944707c74db274ca03465a9c39bf7b
+      internalID: 1889993853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db6c42557eae240a992c795dbc66cb
+      internalID: -765970687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d0de1052228142a9dff0f8f218a1d
+      internalID: 607012366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca65de10e3e994e9008165037e3fe1
+      internalID: 29352964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: I_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f44ed57475d44b8abeb4ef10dc34c
+      internalID: 686529427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f9cdb705b03b41abfd4513f7ac4db
+      internalID: -382415309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b8af90a0faa24a8dc0faa615a7155
+      internalID: 113855904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 160
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff2f5f82128a54596fd23b959af756
+      internalID: 2088202021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 160
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d751da7d8002c4b936a3442f1f3d7b
+      internalID: -1724739887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd429c727f2264db8c4baa04943f86
+      internalID: 1881593192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4270ad837bce42a3ad818ee517c95
+      internalID: 384168735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3625f6bccda0f7a47a4dbe2c5449fb93
+      internalID: -24891619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728038d2f7e20af4eaeb29dfddb3054c
+      internalID: 1044256527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc5cf677d4f5d4f8f6444143bf421f
+      internalID: -1981786423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d68f1a2e3847b4b81e14a94752ef60
+      internalID: 439767029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c31aaf7b2f0e3b48a66e4d4201c187e
+      internalID: 132024473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b230766acb054f877629f9463f55e
+      internalID: 650930009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd0546459e81d4a9aca3e2bf8c6775
+      internalID: 448975422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782aa49931d961f4ebb52c5b68bb8da7
+      internalID: -1916519528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d70bb1e0d82654c8084ba74080fc04
+      internalID: -922547638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c260cba11e6384dae41bd717049255
+      internalID: -935320927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Z_FLetter_IGame
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e645971ca9aaae4e9479625218be183
+      internalID: -527778909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      H_FLetter_IGame: 29352964
+      H_PLetter_IGame: -1972948690
+      B_SLetter_IGame: 320593312
+      H_SLetter_IGame: -1466469160
+      I_SLetter_IGame: 1691530656
+      C_SLetter_IGame: 1005723860
+      U_FLetter_IGame: 650930009
+      A_FLetter_IGame: -706079851
+      K_FLetter_IGame: 113855904
+      D_PLetter_IGame: -1555916265
+      U_PLetter_IGame: 708189321
+      E_SLetter_IGame: 1613135254
+      P_SLetter_IGame: -227659289
+      W_PLetter_IGame: -1451996604
+      I_PLetter_IGame: 1976437199
+      L_FLetter_IGame: 2088202021
+      Y_SLetter_IGame: 1606059606
+      L_SLetter_IGame: -1120755753
+      S_FLetter_IGame: 439767029
+      T_FLetter_IGame: 132024473
+      X_FLetter_IGame: -922547638
+      D_SLetter_IGame: -991622017
+      I_FLetter_IGame: 686529427
+      J_SLetter_IGame: 1729730768
+      X_PLetter_IGame: -1529990247
+      P_FLetter_IGame: -24891619
+      R_PLetter_IGame: -1796080017
+      R_FLetter_IGame: -1981786423
+      S_PLetter_IGame: 965611171
+      O_SLetter_IGame: -1526411160
+      B_PLetter_IGame: -1711137949
+      O_PLetter_IGame: -1665676637
+      J_FLetter_IGame: -382415309
+      Y_PLetter_IGame: -64127632
+      E_PLetter_IGame: -1927260618
+      T_SLetter_IGame: 948095631
+      G_PLetter_IGame: 1945667552
+      F_SLetter_IGame: 1323487186
+      A_SLetter_IGame: -1497049922
+      E_FLetter_IGame: 1889993853
+      C_PLetter_IGame: 913580320
+      M_SLetter_IGame: -1835344231
+      K_PLetter_IGame: -1273258427
+      F_PLetter_IGame: -1862841090
+      V_SLetter_IGame: -976076762
+      R_SLetter_IGame: 1796657790
+      Q_FLetter_IGame: 1044256527
+      M_PLetter_IGame: -1490533429
+      O_FLetter_IGame: 384168735
+      P_PLetter_IGame: -2087108981
+      X_SLetter_IGame: -1621879061
+      N_FLetter_IGame: 1881593192
+      B_FLetter_IGame: -1240219903
+      G_SLetter_IGame: -990271360
+      U_SLetter_IGame: 525161634
+      J_PLetter_IGame: 124123495
+      W_SLetter_IGame: 1501324162
+      D_FLetter_IGame: 1890293585
+      T_PLetter_IGame: 21700130
+      A_PLetter_IGame: 1118242384
+      L_PLetter_IGame: 1545163464
+      Q_SLetter_IGame: 1373588675
+      Z_FLetter_IGame: -527778909
+      K_SLetter_IGame: 452598396
+      Q_PLetter_IGame: 1137504161
+      G_FLetter_IGame: 607012366
+      N_SLetter_IGame: -1625736501
+      Y_FLetter_IGame: -935320927
+      V_FLetter_IGame: 448975422
+      N_PLetter_IGame: -2112023230
+      M_FLetter_IGame: -1724739887
+      W_FLetter_IGame: -1916519528
+      Z_PLetter_IGame: 1317237233
+      S_SLetter_IGame: 2075625856
+      C_FLetter_IGame: -1240219903
+      Z_SLetter_IGame: 1976512099
+      V_PLetter_IGame: 1387064811
+      F_FLetter_IGame: -765970687
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

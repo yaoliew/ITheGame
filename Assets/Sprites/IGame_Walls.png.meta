@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: a5d39053a66389c4a9eb7d44f6dd6377
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 23_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1610
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75f904e4126fc4d8294e551dcbf9b4
+      internalID: -989933958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1610
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218802bcfe5529845949dffa7f2352e0
+      internalID: 1981550003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LIEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1610
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c6444d2ca807489ecf5b1c1063489
+      internalID: 401336799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1610
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8e8b084070714468ff015e738550bd
+      internalID: -1576730719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOEdge23_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58febf3c532a4340881c88369626975
+      internalID: -1188696901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOEdge32_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13508a06d76c09540bc9c6d8976cceb6
+      internalID: -1498478583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROEdge23_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589acfed11cf864395f95a9cac99ac2
+      internalID: -2023529178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROEdge32_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1451
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e18a8b922c674aa9a7ca0a54e5ae3
+      internalID: -1743668846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L2_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1290
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01da3493b60474fb0a057332cccbdc
+      internalID: -381938496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L3TEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1290
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6bc53c345362f469fda57e030017e9
+      internalID: 1233168069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R2_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1290
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402414c7b27cde48bdc14441b0021bf
+      internalID: 1952567130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3TEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1290
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1d14a91f8f3a4fa17a1084b5f9001
+      internalID: -1585872963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L3_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1130
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bab0d8e8b1fde4aba830de4c820cc7
+      internalID: -463646898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L2TEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1130
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fca935ad99e1744ab1ca5d2b03e0c2
+      internalID: -703486298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1130
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae83e0109bb86e4fa943908c19dc8fd
+      internalID: 161563953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R2TEdge_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1130
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa59c3c6946ac4b98f0c460cc6bdc7
+      internalID: 1545821919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUICorner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 970
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967292f58e6196242ad1385e0fbafb0a
+      internalID: 1864016015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RSICorner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 970
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c56d9187028d49a5b69960334c098
+      internalID: 1867860028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LSICorner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 970
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fcaad987c47d842912da1c1086f498
+      internalID: 529402871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUICorne_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 970
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05efe5ec136805447918ae9e018cce12
+      internalID: -552573342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T2_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 810
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3063d18e70310b469ad43dfc772b5da
+      internalID: -1602011851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T3Corner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 810
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2e1f0621ea1c4496d9424412bd47d
+      internalID: -1762372234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTOCorner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 810
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2688998c30894dbf0e3a043e5aca8
+      internalID: 1767688067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTOCorner_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 810
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24daf5efd6f4b6419ec4529989009fa
+      internalID: 1190517015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blank_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d91094ec4596a4aaf5c65c17113a73
+      internalID: 835640978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRock_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa0effa584a704cbe6a2ab14772a9e
+      internalID: -772290507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRock_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 670
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c82dcefa9dfe04c8c702144e2ee4b1
+      internalID: 1511710433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRock_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 680
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172c188b07479f418d57ff545393855
+      internalID: -503781336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea69719fec2e30449ab40447cbe24eb
+      internalID: 1924809175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B1Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 490
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ccbe1a41b81443a4fbde147008f79
+      internalID: -112712185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O1Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 490
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db85d0452b149448f571be66915572
+      internalID: 374284671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N1Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 490
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a698ef6a30806a44999cde7c177f58b3
+      internalID: -876307691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P2Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 330
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90b3685bf31fa489de8cae94d33faf
+      internalID: 227032814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B2Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 330
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78262db5131b354479a30a486fb76c18
+      internalID: -64549881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2Grass_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8f6bc103711347aad6d1df149c0ff
+      internalID: -223424803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N2_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 330
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1d5749517bde41b5041c830410cb6
+      internalID: 1613387316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c5313c82c1e740907dff256842043
+      internalID: 436247367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8981ff55d3e0684bb2c7f5cc9c944ca
+      internalID: -247959284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f3f4d1d5932a40a75725348b40502
+      internalID: 685287343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 170
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99650fc2f0b612429c667ea5e088c10
+      internalID: -1188339345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5916b0724d949b4a8578ddcb48e33b2
+      internalID: 1610844960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47c2c173a93a84f94ad5b294391099
+      internalID: 1488750430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5a5e3f37b63e743a24f7c71c47d816
+      internalID: 632975518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Crate_Walls_IGame
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa73bc370cd8f43b83f8672468decd
+      internalID: 531325592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      R3_Walls_IGame: 161563953
+      6Crate_Walls_IGame: 1610844960
+      P1Grass_Walls_IGame: 1924809175
+      T2_Walls_IGame: -1602011851
+      ROEdge32_Walls_IGame: -1743668846
+      23_Walls_IGame: -989933958
+      Blank_Walls_IGame: 835640978
+      5Crate_Walls_IGame: 685287343
+      SRock_Walls_IGame: -503781336
+      LOEdge23_Walls_IGame: -1188696901
+      O2Grass_Walls_IGame: -223424803
+      8Crate_Walls_IGame: 632975518
+      MRock_Walls_IGame: 1511710433
+      RSICorner_Walls_IGame: 1867860028
+      RIEdge_Walls_IGame: -1576730719
+      LSICorner_Walls_IGame: 529402871
+      32_Walls_IGame: 1981550003
+      LIEdge_Walls_IGame: 401336799
+      T3Corner_Walls_IGame: -1762372234
+      R2TEdge_Walls_IGame: 1545821919
+      R2_Walls_IGame: 1952567130
+      P2Grass_Walls_IGame: 227032814
+      7Crate_Walls_IGame: 1488750430
+      L3TEdge_Walls_IGame: 1233168069
+      2Crate_Walls_IGame: 436247367
+      ROEdge23_Walls_IGame: -2023529178
+      L3_Walls_IGame: -463646898
+      O1Grass_Walls_IGame: 374284671
+      N1Grass_Walls_IGame: -876307691
+      4Crate_Walls_IGame: -1188339345
+      LRock_Walls_IGame: -772290507
+      RTOCorner_Walls_IGame: 1190517015
+      B2Grass_Walls_IGame: -64549881
+      9Crate_Walls_IGame: 531325592
+      3Crate_Walls_IGame: -247959284
+      B1Grass_Walls_IGame: -112712185
+      L2TEdge_Walls_IGame: -703486298
+      N2_Walls_IGame: 1613387316
+      L2_Walls_IGame: -381938496
+      RUICorner_Walls_IGame: 1864016015
+      LTOCorner_Walls_IGame: 1767688067
+      LOEdge32_Walls_IGame: -1498478583
+      LUICorne_Walls_IGame: -552573342
+      R3TEdge_Walls_IGame: -1585872963
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
